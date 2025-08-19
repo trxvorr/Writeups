@@ -1,2 +1,2 @@
 # Writeups
-Writeups for ctf's
+Writeups for all CTF's attended
