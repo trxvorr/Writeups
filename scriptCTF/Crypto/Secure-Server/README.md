@@ -102,7 +102,7 @@ print("Recovered secret:", secret.decode())
 ```
 Running this, we get the flag in plaintext.
 ```bash
-mockingspectre@kali:~/ctf/scriptctf2025/crypto/Secure-Server$ python3 solve.py    
+trevo@kali:~/ctf/scriptctf2025/crypto/Secure-Server$ python3 solve.py    
 Recovered key: f48d70aa62d3b2aabe82574583b93ad27db15d6d7a9b20431dc2b43ed222b773  
 Recovered secret: scriptCTF{x0r_1s_not_s3cur3!!!!}  
 ```
