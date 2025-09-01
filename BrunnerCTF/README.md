@@ -1,1 +1,3 @@
-A beginner-friendly journey through BrunnerCTF 2025’s “Shake & Bake” challenges, covering misc, OSINT, web, crypto, forensics, boot2root, pwn, and reverse engineering.
+A beginner-friendly journey through BrunnerCTF 2025’s “Shake & Bake” challenges, covering misc, OSINT, web, crypto, forensics, boot2root, pwn, and reverse engineering. 
+
+Placed: 191th/1158
